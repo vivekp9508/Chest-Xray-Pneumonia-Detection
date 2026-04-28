@@ -1,4 +1,3 @@
-
 # Chest X-Ray Pneumonia Detection using Deep Learning
 
 A deep learning-based medical image classification web application that detects Pneumonia from Chest X-Ray scans using a fine-tuned ResNet50 model with Grad-CAM explainability.
@@ -9,11 +8,16 @@ A deep learning-based medical image classification web application that detects 
 
 - Upload Chest X-Ray image
 - Predict Normal or Pneumonia
+<<<<<<< HEAD
 - Display Confidence Score
 - Generate Grad-CAM Heatmap
 - Interactive Web App using Gradio
 
 ---
+=======
+- Confidence Score
+- Grad-CAM Explainability Overlay
+>>>>>>> 2ba3a74 (Added screenshots for README)
 
 ## Tech Stack
 
