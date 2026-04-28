@@ -8,16 +8,11 @@ A deep learning-based medical image classification web application that detects 
 
 - Upload Chest X-Ray image
 - Predict Normal or Pneumonia
-<<<<<<< HEAD
 - Display Confidence Score
 - Generate Grad-CAM Heatmap
 - Interactive Web App using Gradio
 
 ---
-=======
-- Confidence Score
-- Grad-CAM Explainability Overlay
->>>>>>> 2ba3a74 (Added screenshots for README)
 
 ## Tech Stack
 
@@ -38,7 +33,10 @@ Chest-Xray-Pneumonia-Detection/
 ├── README.md
 ├── app.py
 ├── requirements.txt
-└── utils.py
+├── utils.py
+├── sample1.jpeg
+├── sample2.jpeg
+└── screenshots/
 ```
 
 ---
