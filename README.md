@@ -82,6 +82,19 @@ No setup required. Upload any chest X-ray and get an instant AI-generated diagno
 
 ---
 
+## 📦 Dataset
+
+- **Name:** [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+- **Source:** Kaggle — curated by Paul Mooney
+- **Origin:** Guangzhou Women and Children's Medical Center, China
+- **Total Images:** 5,863 chest X-ray images (JPEG)
+- **Classes:** `Normal` (1,341 images) · `Pneumonia` (3,875 images)
+- **Split:** Train / Validation / Test
+
+> All images were screened and graded by expert physicians before being cleared for AI training. Low-quality or unreadable scans were removed from the dataset.
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Technology |
